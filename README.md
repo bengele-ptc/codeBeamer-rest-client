@@ -1,6 +1,10 @@
 # codeBeamer-rest-client
 
-Sample Code
+## Building
+
+Run `gradlew assembleDist` to generate cliebt code and create a distribution.
+
+## Using the client code
 
 ```Java
 
